@@ -20,6 +20,7 @@ div {
 .current-link {
     font-size: 18px;
 }
+/* This is if neccesary to make any changes to the About Me link or Projects/Technology links. 
 
 
 .list-group-item {
@@ -31,8 +32,11 @@ img {
     height: auto;
 }
 /* This is the width and size of every image*/
-
+   
 #hi {
     color: red;
 }
    
+body {
+    background-color: lightgrey;
+}

@@ -1,0 +1,42 @@
+div {
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    padding: 30px;
+}
+/* This is the padding for each div and color.*/
+
+.container {
+    border-color: black;
+    font-size: 12px;
+}
+/* This is the color and size for everything inside of the container*/
+
+.row {
+    border-color: black;
+}
+/* This is the color to all rows*/
+
+.current-link {
+    font-size: 18px;
+}
+/* This is if neccesary to make any changes to the About Me link or Projects/Technology links. 
+
+
+.list-group-item {
+    
+}
+/* This is if any changes are needed to be made on the buttons*/
+img {
+    width: 240px;
+    height: auto;
+}
+/* This is the width and size of every image*/
+   
+#hi {
+    color: red;
+}
+   
+body {
+    background-color: lightgrey;
+}
